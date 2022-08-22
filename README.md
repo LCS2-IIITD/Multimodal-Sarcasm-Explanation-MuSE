@@ -13,6 +13,10 @@ The format of train, validation and test set TSV files:
 
 The image corresponding to a datapoint with, for example, PID=123 will be 123.jpg in the given link above.
 
+## Model Weights
+* Multimodal Sarcasm Detection pretrained checkpoint can be found [here](https://drive.google.com/file/d/1xiUJ1AHP5I07vAdV0cHvfigEnqDkYnXR/view?usp=sharing).
+* ExMore model checkpoint can be found [here](https://drive.google.com/file/d/100NoUymoUlXZpjgcoSUa-A2l48tJWVzx/view?usp=sharing).
+
 ## Citation
 If you find this repository useful, please cite our paper:
 ```BibTex
